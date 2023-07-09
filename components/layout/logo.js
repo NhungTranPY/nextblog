@@ -1,7 +1,6 @@
 function Logo() {
     return (
-        <>
-        </>
+        <div>Nina's Next Blog</div>
     )
 }
 
